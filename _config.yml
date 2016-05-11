@@ -1,6 +1,6 @@
 name: GridTest01
 favicon: null
-layout_spectrum: 0.9388480319175869
+layout_spectrum: 0.99372
 typography_spectrum: 0.33799408678896725
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#d0fdff'
+    - '#626548'
+    - '#dbb06b'
+    - '#17140f'
+    - '#9fcced'
   brandStrength: 0.07695703790523112
   lightness: 0.5028141564689577
   saturation: 0.642511460930109
